@@ -1,0 +1,12 @@
+body{
+background-image: fit;
+
+}
+
+.player_1{
+box-shadow: 5px 5px 5px indigo;
+}
+
+.player_2{
+    box-shadow: 5px 5px 5px indigo;
+    }
